@@ -1,0 +1,23 @@
+.bg-banner{
+  background-image: url("images/bg3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.box{
+    border: 2px dashed black;
+    width: 40%;
+}
+.anc:hover{
+    color: #e6004c ! important; 
+}
+.boxbg{
+   background-color: rgb(202, 192, 192);
+}
+.clr{
+    color: #e6004c;
+}
+.bgclr{
+    background-color: #e6004c;
+}
